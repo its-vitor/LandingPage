@@ -32,4 +32,12 @@ button {
     background-color: #C07212;
     color: white;
     font-size: 15px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #db8a26;
+    transform:translateY(-7px);
+    transition-duration: 0.5s;
+    box-shadow: 0px 15px 20px #24363d59;
 }
