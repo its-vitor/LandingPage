@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    font-family: 'Inter';
+}
+
+#header{
+    padding: 150px;
+    background-color: #303030;
+    color: #FFFFFF;
+}
+
+#header-title{
+    font-size: 50px;
+    padding-bottom: 30px;
+}

@@ -1,0 +1,9 @@
+#informational {
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: center;
+    color: black;
+    padding: 50px;
+    background-color: #F9F9F9;
+    gap: 300px;
+}

@@ -1,0 +1,11 @@
+#content{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    padding: 100px;
+}
+
+#content-informational{
+    padding: 100px 0px 0px 0px;
+    width: 45%;
+}
